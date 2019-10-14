@@ -146,9 +146,9 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/madrid-infinite.jpg);
+  background-image: url(../img/space-menu.jpg);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: auto;
   height: 100vh;
   min-height: 375px;
   position: relative;
